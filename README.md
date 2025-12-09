@@ -6,6 +6,11 @@ A simple and fun Java-based calculator that performs basic arithmetic operations
 This project is a beginner-friendly example of how to use **Java methods, user input, and randomization**.
 
 ---
+## 🖼️ Screenshots
+
+### 📌 User Interface Preview
+
+| ![Screenshot 1](img1.png) | ![Screenshot 2](img2.png) |
 
 ## 🚀 Features
 
@@ -18,25 +23,6 @@ This project is a beginner-friendly example of how to use **Java methods, user i
 
 ---
 
-## 📂 Project Structure
 
-MyCalculator/
-│
-├── src/
-   └── main/
-       ├── java/
-       │   └── MyPackage/
-       │       └── MyServlet.java
-       │
-       └── webapp/
-           ├── images/
-           │   ├── animated.gif
-           │   └── jokes.jpg
-           │
-           ├── META-INF/
-           ├── WEB-INF/
-           │   └── web.xml
-           ├── index.html
-           └── NewFile.jsp
 
 
